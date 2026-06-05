@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋, I'm Rehan Hussain
 
-<!--
-**rehan-rh/rehan-rh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer & DevOps Enthusiast
 
-Here are some ideas to get you started:
+🎓 B.Tech CSE @ RGUKT (2026)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+- AWS
+- Docker
+- Terraform
+- GitHub Actions
+
+## Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=java,js,react,nextjs,nodejs,express,mongodb,aws,docker,terraform,githubactions,git,linux)](https://skillicons.dev)
+
+## Featured Projects
+
+### 🚀 TrackFlow
+Project management platform built with Next.js, Clerk, MongoDB and AWS SES.
+
+### 🤖 AI-Powered Resume Analyzer
+AI-based resume analysis and career guidance platform.
+
+### 👨‍💻 Dev Tinder
+Developer collaboration and project discovery platform.
