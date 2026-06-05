@@ -26,8 +26,3 @@ AI-based resume analysis and career guidance platform.
 
 ### 👨‍💻 Dev Tinder
 Developer collaboration and project discovery platform.
-## GitHub Stats
-
-![Rehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rehan-rh&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rehan-rh&layout=compact&theme=tokyonight)
