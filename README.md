@@ -6,12 +6,6 @@
 
 🎓 B.Tech CSE @ RGUKT (2026)
 
-🌱 Currently Learning
-- AWS
-- Docker
-- Terraform
-- GitHub Actions
-
 ## Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=java,js,react,nextjs,nodejs,express,mongodb,aws,docker,terraform,githubactions,git,linux)](https://skillicons.dev)
