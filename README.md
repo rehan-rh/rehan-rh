@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AWS+Learner;DevOps+Enthusiast;Java+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%7C+DevOps+Enthusiast)](https://git.io/typing-svg)
 # Hi 👋, I'm Rehan Hussain
 ![](https://komarev.com/ghpvc/?username=rehan-rh&color=blue)
 
